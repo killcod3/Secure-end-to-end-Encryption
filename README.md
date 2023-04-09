@@ -1,4 +1,4 @@
-# Secure-end-to-end-Encryption
+# Secure end-to-end Encryption
 
 This repository provides two examples of end-to-end encryption systems for a banking API using Python. The first example uses RSA for key exchange and AES for data encryption, while the second example uses Elliptic Curve Cryptography (ECC) for key exchange and AES for data encryption. These examples are for educational purposes and should not be used in a production environment without thorough review, testing, and adaptation to your specific use case.
 
